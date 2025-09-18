@@ -29,8 +29,3 @@ Users can click on an image to view it in a **lightbox** with navigation control
 1. Clone or download this repository.
 2. Open `index.html` in any modern web browser.
 3. Explore the gallery, click images, and navigate using buttons or keyboard.
-
-
-
-
-تحبني أظبطه كـ **ملف README.md جاهز للتحميل** ولا تحطه كـ نص تنسخه وتلزقه جوه؟
